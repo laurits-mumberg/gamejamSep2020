@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7abd14c7a1169584695a6443edcfb5e7
+  - enabled: 1
+    path: Assets/Scenes/TransitionScene.unity
+    guid: a585b38d97d554648b1744a85072ac16
+  - enabled: 1
+    path: Assets/Scenes/MillGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PaintGame.unity
+    guid: 95d049ed8e2311a40bda9eea6cc6097b
+  - enabled: 1
+    path: Assets/Scenes/TopGame.unity
+    guid: 212ac183760340e48845a02479c3a1e7
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: 728754ad9e87c5d4183fe8f12422c5c1
+  m_configObjects: {}
